@@ -1,8 +1,8 @@
 # Weather Mood
 
-weather-mood.png
+<img width="1075" height="910" alt="weather-mood" src="https://github.com/user-attachments/assets/18cea849-6c2c-438b-b5d3-c7acb89ef781" />
 
-🌐 Live Demo: https://weather-mood-app-nine.vercel.app/
+🌐 **Live Demo:** https://weather-mood-app-nine.vercel.app/
 
 ## Problem
 
@@ -41,9 +41,9 @@ The objective was to reduce the effort required to interpret weather data and pr
 ## Success Metrics
 
 - Search completion rate
-- Repeat visits
-- Time to weather insight
 - User engagement with city chips
+- Time taken to get weather insights
+- Returning user rate
 
 ## Future Improvements
 
@@ -52,7 +52,3 @@ The objective was to reduce the effort required to interpret weather data and pr
 - Personalized weather preferences
 - Historical weather trends
 - AI powered weather summaries
-
-## Live Project
-
-https://weather-mood-app-nine.vercel.app/
