@@ -1,6 +1,6 @@
 # Weather Mood
 
-!eather-mood.png
+weather-mood.png
 
 🌐 Live Demo: https://weather-mood-app-nine.vercel.app/
 
