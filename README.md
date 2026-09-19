@@ -1,5 +1,7 @@
 # Weather Mood
 
+🌐 Live Demo: https://weather-mood-app-nine.vercel.app/
+
 ## Problem
 
 Most weather applications show raw metrics such as temperature, humidity, and wind speed. Users still need to interpret these values to understand actual weather conditions.
@@ -7,10 +9,6 @@ Most weather applications show raw metrics such as temperature, humidity, and wi
 ## Solution
 
 Weather Mood converts weather data into simple mood based insights that make weather conditions easier to understand at a glance.
-
-## Live Demo
-
-https://weather-mood-app-nine.vercel.app/
 
 ## Features
 
