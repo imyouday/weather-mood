@@ -1,5 +1,7 @@
 # Weather Mood
 
+!eather-mood.png
+
 🌐 Live Demo: https://weather-mood-app-nine.vercel.app/
 
 ## Problem
@@ -15,12 +17,19 @@ Weather Mood converts weather data into simple mood based insights that make wea
 - City based weather search
 - Quick city selection chips
 - Real time weather updates
-- Mood generation based on weather conditions
+- Rule based mood generation
 - Responsive dark mode interface
 
 ## Product Thinking
 
 The objective was to reduce the effort required to interpret weather data and provide users with meaningful insights instead of raw numbers.
+
+## User Persona
+
+- Daily commuters
+- Students
+- Professionals planning their day
+- Users looking for quick weather insights
 
 ## Tech Stack
 
@@ -29,9 +38,21 @@ The objective was to reduce the effort required to interpret weather data and pr
 - WeatherAPI
 - Vercel
 
+## Success Metrics
+
+- Search completion rate
+- Repeat visits
+- Time to weather insight
+- User engagement with city chips
+
 ## Future Improvements
 
 - Clothing recommendations
 - Travel suggestions
 - Personalized weather preferences
-- AI generated weather summaries
+- Historical weather trends
+- AI powered weather summaries
+
+## Live Project
+
+https://weather-mood-app-nine.vercel.app/
